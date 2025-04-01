@@ -1,0 +1,14 @@
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\3. If Else ganjil genap\bin\Debug\net8.0\ifelseganjilgenap.exe
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\3. If Else ganjil genap\bin\Debug\net8.0\ifelseganjilgenap.deps.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\3. If Else ganjil genap\bin\Debug\net8.0\ifelseganjilgenap.runtimeconfig.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\3. If Else ganjil genap\bin\Debug\net8.0\ifelseganjilgenap.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\3. If Else ganjil genap\bin\Debug\net8.0\ifelseganjilgenap.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\3. If Else ganjil genap\obj\Debug\net8.0\ifelseganjilgenap.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\3. If Else ganjil genap\obj\Debug\net8.0\ifelseganjilgenap.AssemblyInfoInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\3. If Else ganjil genap\obj\Debug\net8.0\ifelseganjilgenap.AssemblyInfo.cs
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\3. If Else ganjil genap\obj\Debug\net8.0\ifelseganjilgenap.csproj.CoreCompileInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\3. If Else ganjil genap\obj\Debug\net8.0\ifelseganjilgenap.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\3. If Else ganjil genap\obj\Debug\net8.0\refint\ifelseganjilgenap.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\3. If Else ganjil genap\obj\Debug\net8.0\ifelseganjilgenap.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\3. If Else ganjil genap\obj\Debug\net8.0\ifelseganjilgenap.genruntimeconfig.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\3. If Else ganjil genap\obj\Debug\net8.0\ref\ifelseganjilgenap.dll

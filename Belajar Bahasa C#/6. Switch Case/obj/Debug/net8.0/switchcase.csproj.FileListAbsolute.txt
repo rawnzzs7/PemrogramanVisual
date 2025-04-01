@@ -1,0 +1,14 @@
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\6. Switch Case\bin\Debug\net8.0\switchcase.exe
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\6. Switch Case\bin\Debug\net8.0\switchcase.deps.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\6. Switch Case\bin\Debug\net8.0\switchcase.runtimeconfig.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\6. Switch Case\bin\Debug\net8.0\switchcase.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\6. Switch Case\bin\Debug\net8.0\switchcase.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\6. Switch Case\obj\Debug\net8.0\switchcase.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\6. Switch Case\obj\Debug\net8.0\switchcase.AssemblyInfoInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\6. Switch Case\obj\Debug\net8.0\switchcase.AssemblyInfo.cs
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\6. Switch Case\obj\Debug\net8.0\switchcase.csproj.CoreCompileInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\6. Switch Case\obj\Debug\net8.0\switchcase.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\6. Switch Case\obj\Debug\net8.0\refint\switchcase.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\6. Switch Case\obj\Debug\net8.0\switchcase.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\6. Switch Case\obj\Debug\net8.0\switchcase.genruntimeconfig.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\6. Switch Case\obj\Debug\net8.0\ref\switchcase.dll

@@ -1,0 +1,14 @@
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\4. perulangan for\bin\Debug\net8.0\perulanganfor.exe
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\4. perulangan for\bin\Debug\net8.0\perulanganfor.deps.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\4. perulangan for\bin\Debug\net8.0\perulanganfor.runtimeconfig.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\4. perulangan for\bin\Debug\net8.0\perulanganfor.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\4. perulangan for\bin\Debug\net8.0\perulanganfor.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\4. perulangan for\obj\Debug\net8.0\perulanganfor.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\4. perulangan for\obj\Debug\net8.0\perulanganfor.AssemblyInfoInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\4. perulangan for\obj\Debug\net8.0\perulanganfor.AssemblyInfo.cs
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\4. perulangan for\obj\Debug\net8.0\perulanganfor.csproj.CoreCompileInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\4. perulangan for\obj\Debug\net8.0\perulanganfor.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\4. perulangan for\obj\Debug\net8.0\refint\perulanganfor.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\4. perulangan for\obj\Debug\net8.0\perulanganfor.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\4. perulangan for\obj\Debug\net8.0\perulanganfor.genruntimeconfig.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\4. perulangan for\obj\Debug\net8.0\ref\perulanganfor.dll

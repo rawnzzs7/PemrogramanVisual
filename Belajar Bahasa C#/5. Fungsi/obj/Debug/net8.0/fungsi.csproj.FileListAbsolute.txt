@@ -1,0 +1,14 @@
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\5. Fungsi\bin\Debug\net8.0\fungsi.exe
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\5. Fungsi\bin\Debug\net8.0\fungsi.deps.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\5. Fungsi\bin\Debug\net8.0\fungsi.runtimeconfig.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\5. Fungsi\bin\Debug\net8.0\fungsi.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\5. Fungsi\bin\Debug\net8.0\fungsi.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\5. Fungsi\obj\Debug\net8.0\fungsi.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\5. Fungsi\obj\Debug\net8.0\fungsi.AssemblyInfoInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\5. Fungsi\obj\Debug\net8.0\fungsi.AssemblyInfo.cs
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\5. Fungsi\obj\Debug\net8.0\fungsi.csproj.CoreCompileInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\5. Fungsi\obj\Debug\net8.0\fungsi.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\5. Fungsi\obj\Debug\net8.0\refint\fungsi.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\5. Fungsi\obj\Debug\net8.0\fungsi.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\5. Fungsi\obj\Debug\net8.0\fungsi.genruntimeconfig.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\5. Fungsi\obj\Debug\net8.0\ref\fungsi.dll

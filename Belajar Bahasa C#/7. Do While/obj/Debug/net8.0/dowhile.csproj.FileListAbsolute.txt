@@ -1,0 +1,14 @@
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\7. Do While\bin\Debug\net8.0\dowhile.exe
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\7. Do While\bin\Debug\net8.0\dowhile.deps.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\7. Do While\bin\Debug\net8.0\dowhile.runtimeconfig.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\7. Do While\bin\Debug\net8.0\dowhile.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\7. Do While\bin\Debug\net8.0\dowhile.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\7. Do While\obj\Debug\net8.0\dowhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\7. Do While\obj\Debug\net8.0\dowhile.AssemblyInfoInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\7. Do While\obj\Debug\net8.0\dowhile.AssemblyInfo.cs
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\7. Do While\obj\Debug\net8.0\dowhile.csproj.CoreCompileInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\7. Do While\obj\Debug\net8.0\dowhile.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\7. Do While\obj\Debug\net8.0\refint\dowhile.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\7. Do While\obj\Debug\net8.0\dowhile.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\7. Do While\obj\Debug\net8.0\dowhile.genruntimeconfig.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\7. Do While\obj\Debug\net8.0\ref\dowhile.dll

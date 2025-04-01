@@ -1,0 +1,14 @@
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\if else\bin\Debug\net8.0\ifelse.exe
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\if else\bin\Debug\net8.0\ifelse.deps.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\if else\bin\Debug\net8.0\ifelse.runtimeconfig.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\if else\bin\Debug\net8.0\ifelse.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\if else\bin\Debug\net8.0\ifelse.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\if else\obj\Debug\net8.0\ifelse.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\if else\obj\Debug\net8.0\ifelse.AssemblyInfoInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\if else\obj\Debug\net8.0\ifelse.AssemblyInfo.cs
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\if else\obj\Debug\net8.0\ifelse.csproj.CoreCompileInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\if else\obj\Debug\net8.0\ifelse.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\if else\obj\Debug\net8.0\refint\ifelse.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\if else\obj\Debug\net8.0\ifelse.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\if else\obj\Debug\net8.0\ifelse.genruntimeconfig.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\if else\obj\Debug\net8.0\ref\ifelse.dll

@@ -1,0 +1,4 @@
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\helloworld\obj\Debug\net8.0\VariabeldanTipedata.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\helloworld\obj\Debug\net8.0\VariabeldanTipedata.AssemblyInfoInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\helloworld\obj\Debug\net8.0\VariabeldanTipedata.AssemblyInfo.cs
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\helloworld\obj\Debug\net8.0\VariabeldanTipedata.csproj.CoreCompileInputs.cache

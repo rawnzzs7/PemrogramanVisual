@@ -1,0 +1,28 @@
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\tampilkan nama\bin\Debug\net8.0\tampilkannama.exe
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\tampilkan nama\bin\Debug\net8.0\tampilkannama.deps.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\tampilkan nama\bin\Debug\net8.0\tampilkannama.runtimeconfig.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\tampilkan nama\bin\Debug\net8.0\tampilkannama.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\tampilkan nama\bin\Debug\net8.0\tampilkannama.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\tampilkan nama\obj\Debug\net8.0\tampilkannama.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\tampilkan nama\obj\Debug\net8.0\tampilkannama.AssemblyInfoInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\tampilkan nama\obj\Debug\net8.0\tampilkannama.AssemblyInfo.cs
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\tampilkan nama\obj\Debug\net8.0\tampilkannama.csproj.CoreCompileInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\tampilkan nama\obj\Debug\net8.0\tampilkannama.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\tampilkan nama\obj\Debug\net8.0\refint\tampilkannama.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\tampilkan nama\obj\Debug\net8.0\tampilkannama.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\tampilkan nama\obj\Debug\net8.0\tampilkannama.genruntimeconfig.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\tampilkan nama\obj\Debug\net8.0\ref\tampilkannama.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\1. Tampilkan Nama\bin\Debug\net8.0\tampilkannama.exe
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\1. Tampilkan Nama\bin\Debug\net8.0\tampilkannama.deps.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\1. Tampilkan Nama\bin\Debug\net8.0\tampilkannama.runtimeconfig.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\1. Tampilkan Nama\bin\Debug\net8.0\tampilkannama.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\1. Tampilkan Nama\bin\Debug\net8.0\tampilkannama.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\1. Tampilkan Nama\obj\Debug\net8.0\tampilkannama.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\1. Tampilkan Nama\obj\Debug\net8.0\tampilkannama.AssemblyInfoInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\1. Tampilkan Nama\obj\Debug\net8.0\tampilkannama.AssemblyInfo.cs
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\1. Tampilkan Nama\obj\Debug\net8.0\tampilkannama.csproj.CoreCompileInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\1. Tampilkan Nama\obj\Debug\net8.0\tampilkannama.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\1. Tampilkan Nama\obj\Debug\net8.0\refint\tampilkannama.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\1. Tampilkan Nama\obj\Debug\net8.0\tampilkannama.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\1. Tampilkan Nama\obj\Debug\net8.0\tampilkannama.genruntimeconfig.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\1. Tampilkan Nama\obj\Debug\net8.0\ref\tampilkannama.dll

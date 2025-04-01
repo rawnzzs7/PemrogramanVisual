@@ -1,0 +1,14 @@
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\8. Array\bin\Debug\net8.0\array.exe
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\8. Array\bin\Debug\net8.0\array.deps.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\8. Array\bin\Debug\net8.0\array.runtimeconfig.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\8. Array\bin\Debug\net8.0\array.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\8. Array\bin\Debug\net8.0\array.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\8. Array\obj\Debug\net8.0\array.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\8. Array\obj\Debug\net8.0\array.AssemblyInfoInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\8. Array\obj\Debug\net8.0\array.AssemblyInfo.cs
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\8. Array\obj\Debug\net8.0\array.csproj.CoreCompileInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\8. Array\obj\Debug\net8.0\array.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\8. Array\obj\Debug\net8.0\refint\array.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\8. Array\obj\Debug\net8.0\array.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\8. Array\obj\Debug\net8.0\array.genruntimeconfig.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\8. Array\obj\Debug\net8.0\ref\array.dll
