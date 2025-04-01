@@ -1,0 +1,16 @@
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\11. Simulasi Deteksi Nada Biola\bin\Debug\net8.0\simulasideteksinadabiola.exe
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\11. Simulasi Deteksi Nada Biola\bin\Debug\net8.0\simulasideteksinadabiola.deps.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\11. Simulasi Deteksi Nada Biola\bin\Debug\net8.0\simulasideteksinadabiola.runtimeconfig.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\11. Simulasi Deteksi Nada Biola\bin\Debug\net8.0\simulasideteksinadabiola.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\11. Simulasi Deteksi Nada Biola\bin\Debug\net8.0\simulasideteksinadabiola.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\11. Simulasi Deteksi Nada Biola\obj\Debug\net8.0\simulasideteksinadabiola.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\11. Simulasi Deteksi Nada Biola\obj\Debug\net8.0\simulasideteksinadabiola.AssemblyInfoInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\11. Simulasi Deteksi Nada Biola\obj\Debug\net8.0\simulasideteksinadabiola.AssemblyInfo.cs
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\11. Simulasi Deteksi Nada Biola\obj\Debug\net8.0\simulasideteksinadabiola.csproj.CoreCompileInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\11. Simulasi Deteksi Nada Biola\obj\Debug\net8.0\simulasideteksinadabiola.sourcelink.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\11. Simulasi Deteksi Nada Biola\obj\Debug\net8.0\simulasideteksinadabiola.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\11. Simulasi Deteksi Nada Biola\obj\Debug\net8.0\refint\simulasideteksinadabiola.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\11. Simulasi Deteksi Nada Biola\obj\Debug\net8.0\simulasideteksinadabiola.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\11. Simulasi Deteksi Nada Biola\obj\Debug\net8.0\simulasideteksinadabiola.genruntimeconfig.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\11. Simulasi Deteksi Nada Biola\obj\Debug\net8.0\ref\simulasideteksinadabiola.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\11. Simulasi Deteksi Nada Biola\obj\Debug\net8.0\simulasideteksinadabiola.csproj.AssemblyReference.cache
