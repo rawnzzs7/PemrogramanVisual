@@ -1,0 +1,18 @@
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\helloworld\obj\Debug\net8.0\VariabeldanTipedata.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\helloworld\obj\Debug\net8.0\VariabeldanTipedata.AssemblyInfoInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\helloworld\obj\Debug\net8.0\VariabeldanTipedata.AssemblyInfo.cs
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\helloworld\obj\Debug\net8.0\VariabeldanTipedata.csproj.CoreCompileInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\variabel dan tipe data\bin\Debug\net8.0\variabeldantipedata.exe
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\variabel dan tipe data\bin\Debug\net8.0\variabeldantipedata.deps.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\variabel dan tipe data\bin\Debug\net8.0\variabeldantipedata.runtimeconfig.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\variabel dan tipe data\bin\Debug\net8.0\variabeldantipedata.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\variabel dan tipe data\bin\Debug\net8.0\variabeldantipedata.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\variabel dan tipe data\obj\Debug\net8.0\variabeldantipedata.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\variabel dan tipe data\obj\Debug\net8.0\variabeldantipedata.AssemblyInfoInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\variabel dan tipe data\obj\Debug\net8.0\variabeldantipedata.AssemblyInfo.cs
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\variabel dan tipe data\obj\Debug\net8.0\variabeldantipedata.csproj.CoreCompileInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\variabel dan tipe data\obj\Debug\net8.0\variabeldantipedata.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\variabel dan tipe data\obj\Debug\net8.0\refint\variabeldantipedata.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\variabel dan tipe data\obj\Debug\net8.0\variabeldantipedata.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\variabel dan tipe data\obj\Debug\net8.0\variabeldantipedata.genruntimeconfig.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\variabel dan tipe data\obj\Debug\net8.0\ref\variabeldantipedata.dll

@@ -1,0 +1,14 @@
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\10. Pewarisan\bin\Debug\net8.0\pewarisan.exe
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\10. Pewarisan\bin\Debug\net8.0\pewarisan.deps.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\10. Pewarisan\bin\Debug\net8.0\pewarisan.runtimeconfig.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\10. Pewarisan\bin\Debug\net8.0\pewarisan.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\10. Pewarisan\bin\Debug\net8.0\pewarisan.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\10. Pewarisan\obj\Debug\net8.0\pewarisan.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\10. Pewarisan\obj\Debug\net8.0\pewarisan.AssemblyInfoInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\10. Pewarisan\obj\Debug\net8.0\pewarisan.AssemblyInfo.cs
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\10. Pewarisan\obj\Debug\net8.0\pewarisan.csproj.CoreCompileInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\10. Pewarisan\obj\Debug\net8.0\pewarisan.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\10. Pewarisan\obj\Debug\net8.0\refint\pewarisan.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\10. Pewarisan\obj\Debug\net8.0\pewarisan.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\10. Pewarisan\obj\Debug\net8.0\pewarisan.genruntimeconfig.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar C#\10. Pewarisan\obj\Debug\net8.0\ref\pewarisan.dll

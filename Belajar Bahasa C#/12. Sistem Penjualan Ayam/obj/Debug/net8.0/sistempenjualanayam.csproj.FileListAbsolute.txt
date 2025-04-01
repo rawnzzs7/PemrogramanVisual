@@ -1,0 +1,15 @@
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Sistem Penjualan Ayam\obj\Debug\net8.0\sistempenjualanayam.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Sistem Penjualan Ayam\obj\Debug\net8.0\sistempenjualanayam.AssemblyInfoInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Sistem Penjualan Ayam\obj\Debug\net8.0\sistempenjualanayam.AssemblyInfo.cs
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Sistem Penjualan Ayam\obj\Debug\net8.0\sistempenjualanayam.csproj.CoreCompileInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Sistem Penjualan Ayam\obj\Debug\net8.0\sistempenjualanayam.sourcelink.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Sistem Penjualan Ayam\bin\Debug\net8.0\sistempenjualanayam.exe
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Sistem Penjualan Ayam\bin\Debug\net8.0\sistempenjualanayam.deps.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Sistem Penjualan Ayam\bin\Debug\net8.0\sistempenjualanayam.runtimeconfig.json
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Sistem Penjualan Ayam\bin\Debug\net8.0\sistempenjualanayam.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Sistem Penjualan Ayam\bin\Debug\net8.0\sistempenjualanayam.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Sistem Penjualan Ayam\obj\Debug\net8.0\sistempenjualanayam.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Sistem Penjualan Ayam\obj\Debug\net8.0\refint\sistempenjualanayam.dll
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Sistem Penjualan Ayam\obj\Debug\net8.0\sistempenjualanayam.pdb
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Sistem Penjualan Ayam\obj\Debug\net8.0\sistempenjualanayam.genruntimeconfig.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Sistem Penjualan Ayam\obj\Debug\net8.0\ref\sistempenjualanayam.dll
