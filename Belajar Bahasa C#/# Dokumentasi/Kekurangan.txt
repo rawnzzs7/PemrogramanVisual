@@ -1,0 +1,5 @@
+1. program "11. Simulasi Deteksi Nada Biola"	
+	-belum sempurna, looping tidak bisa berheti otomatis walau sudah 	 berhenti merekam.
+	-nada diam dianggap sebagai nada c
+	-nada lain yang sama dianggap sebagai nada biola (missal musik)
+catatan : program 11 hanya uji coba karena kaingintahuan aya pribadi
