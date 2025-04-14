@@ -17,27 +17,24 @@ Mockup aplikasinya udah dirancang pake **Figma**, buat nunjukin tampilan awal da
 
 ### Cuplikan Tampilan
 
-<p align="left">
-  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Home Kediri Info Mazzeh.png" target="_blank" style="display: inline-block; text-align: center;">
+<div style="display: flex; justify-content: flex-start; gap: 20px;">
+  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Home Kediri Info Mazzeh.png" target="_blank" style="text-align: center;">
     <img src="Aplikasi Kediri Mazzeh/Asset/Gambar/Home Kediri Info Mazzeh.png" alt="Halaman Awal" width="200"><br>
     Halaman Awal
   </a>
-  &nbsp;&nbsp;
-  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Makanan.png" target="_blank" style="display: inline-block; text-align: center;">
+  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Makanan.png" target="_blank" style="text-align: center;">
     <img src="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Makanan.png" alt="Menu Makanan" width="200"><br>
     Menu Makanan
   </a>
-  &nbsp;&nbsp;
-  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Info.png" target="_blank" style="display: inline-block; text-align: center;">
+  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Info.png" target="_blank" style="text-align: center;">
     <img src="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Info.png" alt="Menu Info" width="200"><br>
     Menu Info
   </a>
-  &nbsp;&nbsp;
-  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Awal.png" target="_blank" style="display: inline-block; text-align: center;">
+  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Awal.png" target="_blank" style="text-align: center;">
     <img src="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Awal.png" alt="Menu" width="200"><br>
     Menu
   </a>
-</p>
+</div>
 
 ---
 
