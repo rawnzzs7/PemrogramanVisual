@@ -19,7 +19,7 @@ Mockup aplikasinya udah dirancang pake **Figma**, buat nunjukin tampilan awal da
 
 
 <p align="left" style="display: flex; justify-content: flex-start; gap: 20px;">
-  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Home Kediri Info Mazzeh.png.png" target="_blank">
+  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Home Kediri Info Mazzeh.png" target="_blank">
     <img src="Aplikasi Kediri Mazzeh/Asset/Gambar/Home Kediri Info Mazzeh.png" alt="Home Kediri Info Mazzeh.png" width="200">
   </a>
   <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Awal.png" target="_blank">
