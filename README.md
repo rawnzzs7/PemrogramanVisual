@@ -14,15 +14,29 @@ Mockup aplikasinya udah dirancang pake **Figma**, buat nunjukin tampilan awal da
  **Link Mockup (Public):**  
 [Figma - Kediri Info Mazzeh](https://www.figma.com/proto/Wsp4Oqj9kb8vP0Zbgq9kFc/0098_Ragil-Karnoto?node-id=2-4&t=xRAVCeNpwb1oJs4M-1)
 
-### Cuplikan Tampilan
 
 ### Cuplikan Tampilan
 
 <p align="left">
-  <img src="Aplikasi-Kediri-Mazzeh/Asset/Gambar/mockup-preview1.png" alt="Home Kediri Info Mazzeh.png" width="200">
-  <img src="Aplikasi-Kediri-Mazzeh/Asset/Gambar/mockup-preview2.png" alt="Menu Awal.png" width="200">
-  <img src="Aplikasi-Kediri-Mazzeh/Asset/Gambar/mockup-preview3.png" alt="Menu Info.png" width="200">
-  <img src="Aplikasi-Kediri-Mazzeh/Asset/Gambar/mockup-preview4.png" alt="Menu Makanan.png" width="200">
+  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/mockup-preview1.png" target="_blank">
+    <img src="Aplikasi-Kediri-Mazzeh/Asset/Gambar/mockup-preview1.png" alt="Halaman Utama" width="200"><br>
+    Halaman Utama
+  </a>
+  <br><br>
+  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/mockup-preview2.png" target="_blank">
+    <img src="Aplikasi-Kediri-Mazzeh/Asset/Gambar/mockup-preview2.png" alt="Menu Awal" width="200"><br>
+    Menu Awal
+  </a>
+  <br><br>
+  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/mockup-preview3.png" target="_blank">
+    <img src="Aplikasi-Kediri-Mazzeh/Asset/Gambar/mockup-preview3.png" alt="Menu Info" width="200"><br>
+    Menu Info
+  </a>
+  <br><br>
+  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/mockup-preview4.png" target="_blank">
+    <img src="Aplikasi-Kediri-Mazzeh/Asset/Gambar/mockup-preview4.png" alt="Menu Makanan" width="200"><br>
+    Menu Makanan
+  </a>
 </p>
 
 ---
