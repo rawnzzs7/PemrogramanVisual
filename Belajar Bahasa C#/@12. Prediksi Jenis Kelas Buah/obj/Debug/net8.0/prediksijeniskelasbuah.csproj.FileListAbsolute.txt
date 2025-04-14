@@ -1,0 +1,6 @@
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Prediksi Jenis Kelas Buah\obj\Debug\net8.0\prediksijeniskelasbuah.csproj.AssemblyReference.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Prediksi Jenis Kelas Buah\obj\Debug\net8.0\prediksijeniskelasbuah.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Prediksi Jenis Kelas Buah\obj\Debug\net8.0\prediksijeniskelasbuah.AssemblyInfoInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Prediksi Jenis Kelas Buah\obj\Debug\net8.0\prediksijeniskelasbuah.AssemblyInfo.cs
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Prediksi Jenis Kelas Buah\obj\Debug\net8.0\prediksijeniskelasbuah.csproj.CoreCompileInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Belajar Bahasa C#\12. Prediksi Jenis Kelas Buah\obj\Debug\net8.0\prediksijeniskelasbuah.sourcelink.json
