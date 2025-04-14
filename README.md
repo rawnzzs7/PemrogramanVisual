@@ -19,23 +19,23 @@ Mockup aplikasinya udah dirancang pake **Figma**, buat nunjukin tampilan awal da
 
 <p align="left">
   <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Home Kediri Info Mazzeh.png" target="_blank">
-    <img src="Aplikasi Kediri Mazzeh/Asset/Gambar/Home Kediri Info Mazzeh.png" alt="Halaman Utama" width="200"><br>
-    Halaman Utama
+    <img src="Aplikasi Kediri Mazzeh/Asset/Gambar/Home Kediri Info Mazzeh.png" alt="Halaman Awal" width="200"><br>
+    Halaman Awal
   </a>
-  <br><br>
-  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Awal.png" target="_blank">
-    <img src="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Awal.png" alt="Menu Awal" width="200"><br>
-    Menu Awal
+  &nbsp;&nbsp;
+  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Makanan.png" target="_blank">
+    <img src="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Makanan.png" alt="Menu Makanan" width="200"><br>
+    Menu Makanan
   </a>
-  <br><br>
+  &nbsp;&nbsp;
   <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Info.png" target="_blank">
     <img src="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Info.png" alt="Menu Info" width="200"><br>
     Menu Info
   </a>
-  <br><br>
-  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Makanan.png" target="_blank">
-    <img src="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Makanan.png" alt="Menu Makanan" width="200"><br>
-    Menu Makanan
+  &nbsp;&nbsp;
+  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Awal.png" target="_blank">
+    <img src="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Awal.png" alt="Menu" width="200"><br>
+    Menu
   </a>
 </p>
 
