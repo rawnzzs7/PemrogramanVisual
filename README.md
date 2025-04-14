@@ -14,6 +14,13 @@ Mockup aplikasinya udah dirancang pake **Figma**, buat nunjukin tampilan awal da
  **Link Mockup (Public):**  
 [Figma - Kediri Info Mazzeh](https://www.figma.com/proto/Wsp4Oqj9kb8vP0Zbgq9kFc/0098_Ragil-Karnoto?node-id=2-4&t=xRAVCeNpwb1oJs4M-1)
 
+with open('Aplikasi Kediri Mazzeh/Link Figma/Link Figma.txt', 'r') as file:
+    figma_link = file.read().strip()
+    
+with open('README.md', 'a') as readme:
+    readme.write(f"\n**Link Mockup (Public):**\n[Figma - Kediri Info Mazzeh]({figma_link})\n")
+
+
 
 ### Cuplikan Tampilan
 
