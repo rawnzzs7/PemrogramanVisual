@@ -19,16 +19,16 @@ Mockup aplikasinya udah dirancang pake **Figma**, buat nunjukin tampilan awal da
 
 
 <p align="left" style="display: flex; justify-content: flex-start; gap: 20px;">
-  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/mockup-preview1.png" target="_blank">
+  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Home Kediri Info Mazzeh.png.png" target="_blank">
     <img src="Aplikasi Kediri Mazzeh/Asset/Gambar/Home Kediri Info Mazzeh.png" alt="Home Kediri Info Mazzeh.png" width="200">
   </a>
-  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/mockup-preview2.png" target="_blank">
+  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Awal.png" target="_blank">
     <img src="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Awal.png" alt="Menu Awal.png" width="200">
   </a>
-  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/mockup-preview3.png" target="_blank">
+  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Info.png" target="_blank">
     <img src="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Info.png" alt="Menu Info.png" width="200">
   </a>
-  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/mockup-preview4.png" target="_blank">
+  <a href="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Makanan.png" target="_blank">
     <img src="Aplikasi Kediri Mazzeh/Asset/Gambar/Menu Makanan.png" alt="Menu Makanan.png" width="200">
   </a>
 </p>
