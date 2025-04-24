@@ -1,0 +1,28 @@
+﻿<Window x:Class="KediriMazzeh.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kediri Info Mazzeh" Height="450" Width="800">
+    <Grid>
+        <!-- Background -->
+        <Grid.Background>
+            <ImageBrush ImageSource="Asset/Gambar/home.png" Stretch="Fill"/>
+        </Grid.Background>
+
+        <!-- Kediri Title dengan Border -->
+        <Border Background="#AAFFFFFF" Padding="10" CornerRadius="10"
+                HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,-60,0,0">
+            <TextBlock Text="Kediri" FontSize="48" FontWeight="Bold" Foreground="Black"/>
+        </Border>
+
+        <!-- Info Mazzeh dengan Border -->
+        <Border Background="#AAFFFFFF" Padding="5" CornerRadius="10"
+                HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,35,280,0">
+            <TextBlock Text="Info Mazzeh" FontSize="24" FontWeight="Bold" Foreground="Black"/>
+        </Border>
+
+        <!-- Masuk Menu Button -->
+        <Button Content="Masuk Menu" Width="150" Height="40" FontWeight="Bold"
+                HorizontalAlignment="Right" VerticalAlignment="Bottom"
+                Margin="0,0,20,20" Click="MasukMenu_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0YzsWfK+oLQ=",
+  "success": true,
+  "projectFilePath": "D:\\#Matkul\\Semester 6\\Pem Vis\\Aplikasi Kediri Mazzeh\\Aplikasi Kediri Mazzeh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RAGIL\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.4\\system.configuration.configurationmanager.9.0.4.nupkg.sha512",
+    "C:\\Users\\RAGIL\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.4\\system.diagnostics.eventlog.9.0.4.nupkg.sha512",
+    "C:\\Users\\RAGIL\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.4\\system.security.cryptography.protecteddata.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
