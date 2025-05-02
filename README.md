@@ -1,5 +1,6 @@
 # Pemrograman Visual  
 **Ragil Karnoto (0098)**
+**Ika Arinun Nisa' (0042)**
 
 # Kediri Info Mazzeh
 
