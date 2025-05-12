@@ -33,3 +33,38 @@ D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Sy
 D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
 D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi.357F9535.Up2Date
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.exe
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.dll
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.deps.json
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.runtimeconfig.json
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.pdb
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.csproj.AssemblyReference.cache
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page2.baml
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page3.baml
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page4.baml
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page5.baml
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page2.g.cs
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page3.g.cs
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page4.g.cs
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page5.g.cs
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh_MarkupCompile.cache
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.g.resources
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.AssemblyInfoInputs.cache
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.AssemblyInfo.cs
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.csproj.CoreCompileInputs.cache
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.sourcelink.json
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi.357F9535.Up2Date
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.dll
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\refint\Aplikasi Kediri Mazzeh.dll
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.pdb
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.genruntimeconfig.cache
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\ref\Aplikasi Kediri Mazzeh.dll

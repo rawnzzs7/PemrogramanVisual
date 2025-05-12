@@ -170,24 +170,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\RAGIL\\.nuget\\packages\\": {}
+    "C:\\Users\\ragil\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\#Matkul\\Semester 6\\Pem Vis\\Aplikasi Kediri Mazzeh\\Aplikasi Kediri Mazzeh.csproj",
+      "projectUniqueName": "C:\\Users\\ragil\\#Kuliah\\Visual Studio\\Project\\Apk Kediri Info\\PemrogramanVisual\\Aplikasi Kediri Mazzeh\\Aplikasi Kediri Mazzeh.csproj",
       "projectName": "Aplikasi Kediri Mazzeh",
-      "projectPath": "D:\\#Matkul\\Semester 6\\Pem Vis\\Aplikasi Kediri Mazzeh\\Aplikasi Kediri Mazzeh.csproj",
-      "packagesPath": "C:\\Users\\RAGIL\\.nuget\\packages\\",
-      "outputPath": "D:\\#Matkul\\Semester 6\\Pem Vis\\Aplikasi Kediri Mazzeh\\obj\\",
+      "projectPath": "C:\\Users\\ragil\\#Kuliah\\Visual Studio\\Project\\Apk Kediri Info\\PemrogramanVisual\\Aplikasi Kediri Mazzeh\\Aplikasi Kediri Mazzeh.csproj",
+      "packagesPath": "C:\\Users\\ragil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ragil\\#Kuliah\\Visual Studio\\Project\\Apk Kediri Info\\PemrogramanVisual\\Aplikasi Kediri Mazzeh\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\RAGIL\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ragil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0-windows"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -205,7 +213,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -235,7 +244,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

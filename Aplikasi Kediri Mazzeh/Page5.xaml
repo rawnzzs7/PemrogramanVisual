@@ -2,21 +2,21 @@
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Detail" Height="450" Width="800">
-    <Grid>
-        <!-- Background -->
-        <Grid.Background>
-            <ImageBrush ImageSource="Asset/Gambar/home.png" Stretch="Fill"/>
-        </Grid.Background>
-        <!-- Judul dan Detail -->
-        <TextBlock Text="Detail Pilihan" FontSize="24" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,30,0,0"/>
-        
-        <!-- Gambar dan Penjelasan -->
-        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
-            <Image Source="Resources/detail_image.jpg" Width="200" Height="200"/>
-            <TextBlock Text="Penjelasan singkat tentang makanan/pariwisata" HorizontalAlignment="Center" Margin="10"/>
-        </StackPanel>
+	<Grid>
+		<!-- Background -->
+		<Grid.Background>
+			<ImageBrush ImageSource="Asset/Gambar/home.png" Stretch="Fill"/>
+		</Grid.Background>
+		<!-- Judul dan Detail -->
+		<TextBlock Text="Detail Pilihan" FontSize="24" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,30,0,0"/>
 
-        <!-- Kembali Button -->
-        <Button Content="Kembali" Width="150" Height="40" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="20,0,0,20" Click="KembaliHalaman_Click"/>
-    </Grid>
+		<!-- Gambar dan Penjelasan -->
+		<StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+			<Image Source="Resources/detail_image.jpg" Width="200" Height="200"/>
+			<TextBlock Text="Tahu kuning khas Kediri ini terbuat dari kedelai dengan tekstur padat namun sangat lembut dan memiliki rasa gurih. Uniknya tahu ini berwarna kuning yang berasal dari kunyit. Tahu takwa ini menjadi salah satu oleh-oleh favorit yang wajib dicoba oleh wisatawan" HorizontalAlignment="Center" Margin="10"/>
+		</StackPanel>
+
+		<!-- Kembali Button -->
+		<Button Content="Kembali" Width="150" Height="40" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="20,0,0,20" Click="KembaliHalaman_Click"/>
+	</Grid>
 </Window>
