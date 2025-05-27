@@ -1,0 +1,184 @@
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.exe
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.deps.json
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.runtimeconfig.json
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.dll
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.pdb
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\App.g.cs
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh_MarkupCompile.cache
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\MainWindow.baml
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.g.resources
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.GeneratedMSBuildEditorConfig.editorconfig
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.AssemblyInfoInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.AssemblyInfo.cs
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.csproj.CoreCompileInputs.cache
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.sourcelink.json
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.dll
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\refint\Aplikasi Kediri Mazzeh.dll
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.pdb
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.genruntimeconfig.cache
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\ref\Aplikasi Kediri Mazzeh.dll
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page2.baml
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page3.baml
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page4.baml
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page5.baml
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page2.g.cs
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page3.g.cs
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page4.g.cs
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page5.g.cs
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.csproj.AssemblyReference.cache
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\#Matkul\Semester 6\Pem Vis\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi.357F9535.Up2Date
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.exe
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.dll
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.deps.json
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.runtimeconfig.json
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.pdb
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.csproj.AssemblyReference.cache
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page2.baml
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page3.baml
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page4.baml
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page5.baml
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page2.g.cs
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page3.g.cs
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page4.g.cs
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page5.g.cs
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh_MarkupCompile.cache
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.g.resources
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.AssemblyInfoInputs.cache
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.AssemblyInfo.cs
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.csproj.CoreCompileInputs.cache
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.sourcelink.json
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi.357F9535.Up2Date
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.dll
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\refint\Aplikasi Kediri Mazzeh.dll
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.pdb
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.genruntimeconfig.cache
+C:\Users\ragil\#Kuliah\Visual Studio\Project\Apk Kediri Info\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\ref\Aplikasi Kediri Mazzeh.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.exe
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.deps.json
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.runtimeconfig.json
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.pdb
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.csproj.AssemblyReference.cache
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page2.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page3.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page4.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page5.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page2.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page3.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page4.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Page5.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\App.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh_MarkupCompile.cache
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.g.resources
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.AssemblyInfoInputs.cache
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.AssemblyInfo.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.csproj.CoreCompileInputs.cache
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.sourcelink.json
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi.357F9535.Up2Date
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\refint\Aplikasi Kediri Mazzeh.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.pdb
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.genruntimeconfig.cache
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi Kediri Mazzeh\obj\Debug\net8.0-windows\ref\Aplikasi Kediri Mazzeh.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.csproj.AssemblyReference.cache
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Views\MainWindox.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Views\Page2.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Views\Page3.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Views\Page4.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Views\Page5.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Views\MainWindox.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Views\Page2.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Views\Page3.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Views\Page4.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Views\Page5.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\App.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh_MarkupCompile.cache
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.g.resources
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.AssemblyInfoInputs.cache
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.AssemblyInfo.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.csproj.CoreCompileInputs.cache
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.sourcelink.json
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\refint\Aplikasi Kediri Mazzeh.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.pdb
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.csproj.AssemblyReference.cache
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Views\MainWindox.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Views\Page2.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Views\Page3.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Views\Page4.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Views\Page5.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Views\MainWindox.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Views\Page2.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Views\Page3.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Views\Page4.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Views\Page5.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\App.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh_MarkupCompile.cache
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.g.resources
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.AssemblyInfoInputs.cache
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.AssemblyInfo.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.csproj.CoreCompileInputs.cache
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.sourcelink.json
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\refint\Aplikasi Kediri Mazzeh.dll
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_MVC\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.pdb
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_Kediri_Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.csproj.AssemblyReference.cache
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_Kediri_Mazzeh\obj\Debug\net8.0-windows\Views\MainWindox.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_Kediri_Mazzeh\obj\Debug\net8.0-windows\Views\Page2.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_Kediri_Mazzeh\obj\Debug\net8.0-windows\Views\Page3.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_Kediri_Mazzeh\obj\Debug\net8.0-windows\Views\Page4.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_Kediri_Mazzeh\obj\Debug\net8.0-windows\Views\Page5.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_Kediri_Mazzeh\obj\Debug\net8.0-windows\Views\MainWindox.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_Kediri_Mazzeh\obj\Debug\net8.0-windows\Views\Page2.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_Kediri_Mazzeh\obj\Debug\net8.0-windows\Views\Page3.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_Kediri_Mazzeh\obj\Debug\net8.0-windows\Views\Page4.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_Kediri_Mazzeh\obj\Debug\net8.0-windows\Views\Page5.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_Kediri_Mazzeh\obj\Debug\net8.0-windows\App.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_Kediri_Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh_MarkupCompile.cache
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_Kediri_Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.g.resources
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_Kediri_Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_Kediri_Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.AssemblyInfoInputs.cache
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_Kediri_Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.AssemblyInfo.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_Kediri_Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.csproj.CoreCompileInputs.cache
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi_Kediri_Mazzeh\obj\Debug\net8.0-windows\Aplikasi Kediri Mazzeh.sourcelink.json

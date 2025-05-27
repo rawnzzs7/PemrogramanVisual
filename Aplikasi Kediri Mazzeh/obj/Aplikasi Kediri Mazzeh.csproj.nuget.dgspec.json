@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ragil\\#Kuliah\\Visual Studio\\Project\\Apk Kediri Info\\PemrogramanVisual\\Aplikasi Kediri Mazzeh\\Aplikasi Kediri Mazzeh.csproj": {}
+    "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi Kediri Mazzeh\\Aplikasi Kediri Mazzeh.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ragil\\#Kuliah\\Visual Studio\\Project\\Apk Kediri Info\\PemrogramanVisual\\Aplikasi Kediri Mazzeh\\Aplikasi Kediri Mazzeh.csproj": {
+    "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi Kediri Mazzeh\\Aplikasi Kediri Mazzeh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ragil\\#Kuliah\\Visual Studio\\Project\\Apk Kediri Info\\PemrogramanVisual\\Aplikasi Kediri Mazzeh\\Aplikasi Kediri Mazzeh.csproj",
+        "projectUniqueName": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi Kediri Mazzeh\\Aplikasi Kediri Mazzeh.csproj",
         "projectName": "Aplikasi Kediri Mazzeh",
-        "projectPath": "C:\\Users\\ragil\\#Kuliah\\Visual Studio\\Project\\Apk Kediri Info\\PemrogramanVisual\\Aplikasi Kediri Mazzeh\\Aplikasi Kediri Mazzeh.csproj",
+        "projectPath": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi Kediri Mazzeh\\Aplikasi Kediri Mazzeh.csproj",
         "packagesPath": "C:\\Users\\ragil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ragil\\#Kuliah\\Visual Studio\\Project\\Apk Kediri Info\\PemrogramanVisual\\Aplikasi Kediri Mazzeh\\obj\\",
+        "outputPath": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi Kediri Mazzeh\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,12 +45,16 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
               "version": "[9.0.4, )"
@@ -75,7 +79,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

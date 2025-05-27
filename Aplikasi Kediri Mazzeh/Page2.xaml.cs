@@ -14,7 +14,7 @@ namespace KediriMazzeh
             // Arahkan ke halaman 3
             Page3 page3 = new Page3();
             page3.Show();
-            this.Close();
+            this.Hide();
         }
 
         private void Pariwisata_Click(object sender, RoutedEventArgs e)
@@ -22,7 +22,7 @@ namespace KediriMazzeh
             // Arahkan ke halaman 4
             Page4 page4 = new Page4();
             page4.Show();
-            this.Close();
+            this.Hide();
         }
 
         private void KembaliMenu_Click(object sender, RoutedEventArgs e)
@@ -30,7 +30,7 @@ namespace KediriMazzeh
             // Kembali ke halaman utama (Menu)
             MainWindow mainWindow = new MainWindow();
             mainWindow.Show();
-            this.Close();
+            this.Hide();
         }
     }
 }

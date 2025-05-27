@@ -1,0 +1,475 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\aplikasi_kediri_mazzeh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\aplikasi_kediri_mazzeh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\views\\page5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\views\\page5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\views\\page5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\views\\page5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\views\\page4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\views\\page4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\views\\page4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\views\\page4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\views\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\views\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\views\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\views\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\views\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\views\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\views\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\views\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\views\\mainwindox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\views\\mainwindox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\controller\\komentarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\controller\\komentarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\controller\\pariwisatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\controller\\pariwisatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\controller\\kulinercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\controller\\kulinercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\controller\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\controller\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\controller\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\controller\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\model\\pariwisata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\model\\pariwisata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\model\\makanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\model\\makanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\model\\komentar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\model\\komentar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\model\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\model\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\aplikasi_kediri_mazzeh.csproj||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\aplikasi_kediri_mazzeh.csproj||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\kediri_mazzeh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\kediri_mazzeh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\asset\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\asset\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|d:\\kuliah\\matkul\\semester 6\\pemrograman visual\\visual studio\\pemrogramanvisual\\aplikasi mvc\\kediri_mazzeh\\kediri_mazzeh\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AAA3E-9902-4791-A7DA-E4DBC16981B5}|Kediri_mazzeh\\Kediri_mazzeh.csproj|solutionrelative:kediri_mazzeh\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aplikasi_Kediri_Mazzeh.csproj",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Aplikasi_Kediri_Mazzeh.csproj",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Aplikasi_Kediri_Mazzeh.csproj",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Aplikasi_Kediri_Mazzeh.csproj",
+              "RelativeToolTip": "Kediri_mazzeh\\Aplikasi_Kediri_Mazzeh.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T02:06:19.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page5.xaml.cs",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\Page5.xaml.cs",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Views\\Page5.xaml.cs",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\Page5.xaml.cs",
+              "RelativeToolTip": "Kediri_mazzeh\\Views\\Page5.xaml.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAAH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:58:40.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page5.xaml",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\Page5.xaml",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Views\\Page5.xaml",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\Page5.xaml",
+              "RelativeToolTip": "Kediri_mazzeh\\Views\\Page5.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T01:58:11.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page4.xaml.cs",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\Page4.xaml.cs",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Views\\Page4.xaml.cs",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\Page4.xaml.cs",
+              "RelativeToolTip": "Kediri_mazzeh\\Views\\Page4.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:57:56.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page4.xaml",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\Page4.xaml",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Views\\Page4.xaml",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\Page4.xaml",
+              "RelativeToolTip": "Kediri_mazzeh\\Views\\Page4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T01:57:31.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page3.xaml.cs",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\Page3.xaml.cs",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Views\\Page3.xaml.cs",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\Page3.xaml.cs",
+              "RelativeToolTip": "Kediri_mazzeh\\Views\\Page3.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:57:14.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Page3.xaml",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\Page3.xaml",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Views\\Page3.xaml",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\Page3.xaml",
+              "RelativeToolTip": "Kediri_mazzeh\\Views\\Page3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T01:56:35.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Views\\Page2.xaml.cs",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\Page2.xaml.cs",
+              "RelativeToolTip": "Kediri_mazzeh\\Views\\Page2.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:56:17.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\Page2.xaml",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Views\\Page2.xaml",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\Page2.xaml",
+              "RelativeToolTip": "Kediri_mazzeh\\Views\\Page2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T01:55:53.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Kediri_mazzeh\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:55:33.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindox.xaml",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\MainWindox.xaml",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Views\\MainWindox.xaml",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Views\\MainWindox.xaml",
+              "RelativeToolTip": "Kediri_mazzeh\\Views\\MainWindox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T01:53:58.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KomentarController.cs",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Controller\\KomentarController.cs",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Controller\\KomentarController.cs",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Controller\\KomentarController.cs",
+              "RelativeToolTip": "Kediri_mazzeh\\Controller\\KomentarController.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAmwLwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:53:08.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PariwisataController.cs",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Controller\\PariwisataController.cs",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Controller\\PariwisataController.cs",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Controller\\PariwisataController.cs",
+              "RelativeToolTip": "Kediri_mazzeh\\Controller\\PariwisataController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:52:44.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KulinerController.cs",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Controller\\KulinerController.cs",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Controller\\KulinerController.cs",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Controller\\KulinerController.cs",
+              "RelativeToolTip": "Kediri_mazzeh\\Controller\\KulinerController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:52:25.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\MainWindow.xaml",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\MainWindow.xaml",
+              "RelativeToolTip": "Kediri_mazzeh\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T01:40:13.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Controller\\MenuController.cs",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Controller\\MenuController.cs",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Controller\\MenuController.cs",
+              "RelativeToolTip": "Kediri_mazzeh\\Controller\\MenuController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:52:11.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Controller\\MainController.cs",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Controller\\MainController.cs",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Controller\\MainController.cs",
+              "RelativeToolTip": "Kediri_mazzeh\\Controller\\MainController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:51:49.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Pariwisata.cs",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Model\\Pariwisata.cs",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Model\\Pariwisata.cs",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Model\\Pariwisata.cs",
+              "RelativeToolTip": "Kediri_mazzeh\\Model\\Pariwisata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:51:24.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Makanan.cs",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Model\\Makanan.cs",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Model\\Makanan.cs",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Model\\Makanan.cs",
+              "RelativeToolTip": "Kediri_mazzeh\\Model\\Makanan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:51:09.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Komentar.cs",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Model\\Komentar.cs",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Model\\Komentar.cs",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Model\\Komentar.cs",
+              "RelativeToolTip": "Kediri_mazzeh\\Model\\Komentar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:50:52.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Model\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Model\\DatabaseConnection.cs",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Model\\DatabaseConnection.cs",
+              "RelativeToolTip": "Kediri_mazzeh\\Model\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:49:59.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\App.xaml",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\App.xaml",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\App.xaml",
+              "RelativeToolTip": "Kediri_mazzeh\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T01:48:59.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\App.xaml.cs",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\App.xaml.cs",
+              "RelativeToolTip": "Kediri_mazzeh\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:48:33.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Kediri_mazzeh",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Kediri_mazzeh.csproj",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Kediri_mazzeh.csproj",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Kediri_mazzeh.csproj",
+              "RelativeToolTip": "Kediri_mazzeh\\Kediri_mazzeh.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T01:46:28.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Aplikasi_Kediri_Mazzeh.csproj",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Aplikasi_Kediri_Mazzeh.csproj",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Aplikasi_Kediri_Mazzeh.csproj",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Aplikasi_Kediri_Mazzeh.csproj",
+              "RelativeToolTip": "Kediri_mazzeh\\Aplikasi_Kediri_Mazzeh.csproj",
+              "ViewState": "AgIAABMAAAAAAAAAAAAjwB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T01:46:59.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Asset\\.editorconfig",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\Asset\\.editorconfig",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\Asset\\.editorconfig",
+              "RelativeToolTip": "Kediri_mazzeh\\Asset\\.editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-27T01:46:20.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Kediri_mazzeh\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Kuliah\\Matkul\\Semester 6\\Pemrograman Visual\\Visual Studio\\PemrogramanVisual\\Aplikasi MVC\\Kediri_Mazzeh\\Kediri_mazzeh\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Kediri_mazzeh\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:40:11.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

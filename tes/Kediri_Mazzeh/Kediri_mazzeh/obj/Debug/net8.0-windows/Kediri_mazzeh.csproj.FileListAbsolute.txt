@@ -1,0 +1,14 @@
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\Kediri_Mazzeh\Kediri_mazzeh\obj\Debug\net8.0-windows\Views\MainWindox.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\Kediri_Mazzeh\Kediri_mazzeh\obj\Debug\net8.0-windows\Views\Page2.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\Kediri_Mazzeh\Kediri_mazzeh\obj\Debug\net8.0-windows\Views\Page3.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\Kediri_Mazzeh\Kediri_mazzeh\obj\Debug\net8.0-windows\Views\Page4.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\Kediri_Mazzeh\Kediri_mazzeh\obj\Debug\net8.0-windows\Views\Page5.baml
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\Kediri_Mazzeh\Kediri_mazzeh\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\Kediri_Mazzeh\Kediri_mazzeh\obj\Debug\net8.0-windows\Views\MainWindox.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\Kediri_Mazzeh\Kediri_mazzeh\obj\Debug\net8.0-windows\Views\Page2.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\Kediri_Mazzeh\Kediri_mazzeh\obj\Debug\net8.0-windows\Views\Page3.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\Kediri_Mazzeh\Kediri_mazzeh\obj\Debug\net8.0-windows\Views\Page4.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\Kediri_Mazzeh\Kediri_mazzeh\obj\Debug\net8.0-windows\Views\Page5.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\Kediri_Mazzeh\Kediri_mazzeh\obj\Debug\net8.0-windows\App.g.cs
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\Kediri_Mazzeh\Kediri_mazzeh\obj\Debug\net8.0-windows\Kediri_mazzeh_MarkupCompile.cache
+D:\Kuliah\Matkul\Semester 6\Pemrograman Visual\Visual Studio\PemrogramanVisual\Aplikasi MVC\Kediri_Mazzeh\Kediri_mazzeh\obj\Debug\net8.0-windows\Kediri_mazzeh_MarkupCompile.lref

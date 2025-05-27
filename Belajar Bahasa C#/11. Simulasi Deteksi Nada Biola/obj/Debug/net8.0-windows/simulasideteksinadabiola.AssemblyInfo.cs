@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("simulasideteksinadabiola")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4463d07a4ffdbe72a3609cd6b84796633c7c3b7a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99abd8525d86a7da817e60eac73ebeb9a7b438c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("simulasideteksinadabiola")]
 [assembly: System.Reflection.AssemblyTitleAttribute("simulasideteksinadabiola")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
